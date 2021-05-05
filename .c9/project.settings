@@ -3,7 +3,7 @@
         "@saveall": true
     },
     "extensions": {
-        "@aws.profile": "profile:default"
+        "@aws.profile": ""
     },
     "instance": {
         "@automaticShutdown": "30"
